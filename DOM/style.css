@@ -1,0 +1,55 @@
+.marquee{
+    font-size: 60px;
+}
+
+.command{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 60px ;
+    margin-right:150px;
+}
+.quantite
+{
+    width: 45px;
+    height: 35px;
+    text-align: center;
+    border: none;
+}
+.total{
+    
+    width: 100px;
+    height: 35px;
+    text-align: center;
+    border: none;
+    font-size: 25px;
+    
+}
+.btnPlus{
+    background-color:rgb(0, 255, 98) ;
+    border: none;
+    border-radius: 10px;
+    width: 40px;
+    height: 40px;
+}
+.btn-moins{
+    background-color:rgb(111, 141, 224) ;
+    border: none;
+    border-radius: 10px;
+    width: 40px;
+    height: 40px;
+}
+
+
+.titre{
+    text-align: center;
+    font-size: 25px;
+}
+.SupportOrdi{
+    margin-right: 5Opx;
+    margin-left: 30px;
+}
+i
+{
+    color: red;
+}
